@@ -24,9 +24,7 @@ public final class sale extends javax.swing.JPanel {
     public sale() {
         initComponents();
         
-        
-        data_load();
-        
+       data_load();
         
     }
     
